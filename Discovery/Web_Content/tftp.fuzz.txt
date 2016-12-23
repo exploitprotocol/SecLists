@@ -1,4 +1,3 @@
-# files commonly transmitted via tftp
 000000000000.cfg
 000000000000-directory~.xml
 323tosip1_1.bin
